@@ -1,0 +1,2 @@
+Sub directory's count: 19
+File's count in this directory: 7

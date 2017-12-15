@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<UIOfButton xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <container>
+    <Button>
+      <count>3</count>
+      <title>accept</title>
+    </Button>
+    <Button>
+      <count>1</count>
+      <title>exit</title>
+    </Button>
+  </container>
+</UIOfButton>

@@ -1,0 +1,6 @@
+Name: lab15
+Base Directory: C:\PWL\study\OOP\lab15\bin\Debug\netcoreapp2.0\
+System.Private.CoreLib
+lab15
+System.Runtime
+System.Runtime.Extensions

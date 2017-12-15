@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<buttons>
+  <button title="accept">
+    <count>3</count>
+  </button>
+  <button title="exit">
+    <count>1</count>
+  </button>
+</buttons>

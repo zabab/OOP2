@@ -1,0 +1,240 @@
+Session's time: 19.11.2017 1:54:04, Count of parent's directories: 2
+End session.
+
+
+Session's time: 19.11.2017 1:54:04, Sub directory's count: 9
+End session.
+
+
+Session's time: 19.11.2017 1:54:04, File's count in this directory: 0
+End session.
+
+
+Session's time: 19.11.2017 1:54:04, 16.10.2017 22:06:40
+End session.
+
+
+Session's time: 19.11.2017 1:54:04, Drive's free space: 120240816128
+End session.
+
+
+Session's time: 19.11.2017 1:54:04, Drive's type: Fixed
+End session.
+
+
+Session's time: 18.11.2017 1:54:04, Drive's title: C:\, Drive's space: 253008781312, Drive's free space: 120240816128, Drive's label: , Drive's title: E:\, Drive's space: 2142593024, Drive's free space: 2142568448, Drive's label: , 
+End session.
+
+
+Session's time: 18.11.2017 1:54:04, C:\PWL\study\OOP\lab13
+End session.
+
+
+Session's time: 19.11.2017 1:54:04, File's name: pvp_log.txt, File's extension: .txt, File's length: 801
+End session.
+
+
+Session's time: 18.11.2017 1:54:04, File's creation date: 18.11.2017 21:50:29
+End session.
+
+
+Session's time: 19.11.2017 1:58:20, Count of parent's directories: 2
+End session.
+
+
+Session's time: 19.11.2017 1:58:20, Sub directory's count: 9
+End session.
+
+
+Session's time: 19.11.2017 1:58:20, File's count in this directory: 0
+End session.
+
+
+Session's time: 19.11.2017 1:58:20, 16.10.2017 22:06:40
+End session.
+
+
+Session's time: 19.11.2017 1:58:20, Drive's free space: 120220975104
+End session.
+
+
+Session's time: 19.11.2017 1:58:20, Drive's type: Fixed
+End session.
+
+
+Session's time: 19.11.2017 1:58:20, Drive's title: C:\, Drive's space: 253008781312, Drive's free space: 120220975104, Drive's label: , Drive's title: E:\, Drive's space: 2142593024, Drive's free space: 2142568448, Drive's label: , 
+End session.
+
+
+Session's time: 19.11.2017 1:58:20, C:\PWL\study\OOP\lab13
+End session.
+
+
+Session's time: 19.11.2017 1:58:20, File's name: pvp_log.txt, File's extension: .txt, File's length: 1807
+End session.
+
+
+Session's time: 19.11.2017 1:58:20, File's creation date: 18.11.2017 21:50:29
+End session.
+
+
+Session's time: 19.11.2017 1:59:04, Count of parent's directories: 2
+End session.
+
+
+Session's time: 19.11.2017 1:59:04, Sub directory's count: 9
+End session.
+
+
+Session's time: 19.11.2017 1:59:04, File's count in this directory: 0
+End session.
+
+
+Session's time: 19.11.2017 1:59:04, 16.10.2017 22:06:40
+End session.
+
+
+Session's time: 19.11.2017 1:59:04, Drive's free space: 120233517056
+End session.
+
+
+Session's time: 19.11.2017 1:59:04, Drive's type: Fixed
+End session.
+
+
+Session's time: 19.11.2017 1:59:04, Drive's title: C:\, Drive's space: 253008781312, Drive's free space: 120233517056, Drive's label: , Drive's title: E:\, Drive's space: 2142593024, Drive's free space: 2142568448, Drive's label: , 
+End session.
+
+
+Session's time: 19.11.2017 1:59:04, C:\PWL\study\OOP\lab13
+End session.
+
+
+Session's time: 19.11.2017 1:59:04, File's name: pvp_log.txt, File's extension: .txt, File's length: 2824
+End session.
+
+
+Session's time: 19.11.2017 1:59:04, File's creation date: 18.11.2017 21:50:29
+End session.
+
+
+Session's time: 23.11.2017 21:59:57, Count of parent's directories: 2
+End session.
+
+
+Session's time: 23.11.2017 21:59:57, Sub directory's count: 9
+End session.
+
+
+Session's time: 23.11.2017 21:59:57, File's count in this directory: 0
+End session.
+
+
+Session's time: 23.11.2017 21:59:57, 16.10.2017 22:06:40
+End session.
+
+
+Session's time: 23.11.2017 21:59:57, Drive's free space: 108914790400
+End session.
+
+
+Session's time: 23.11.2017 21:59:57, Drive's type: Fixed
+End session.
+
+
+Session's time: 23.11.2017 21:59:57, Drive's title: C:\, Drive's space: 253008781312, Drive's free space: 108914790400, Drive's label: , Drive's title: E:\, Drive's space: 2142593024, Drive's free space: 2142568448, Drive's label: , 
+End session.
+
+
+Session's time: 23.11.2017 21:59:57, C:\PWL\study\OOP\lab13
+End session.
+
+
+Session's time: 23.11.2017 21:59:57, File's name: pvp_log.txt, File's extension: .txt, File's length: 3849
+End session.
+
+
+Session's time: 23.11.2017 21:59:57, File's creation date: 18.11.2017 21:50:29
+End session.
+
+
+Session's time: 24.11.2017 11:47:46, Count of parent's directories: 2
+End session.
+
+
+Session's time: 24.11.2017 11:47:46, Sub directory's count: 9
+End session.
+
+
+Session's time: 24.11.2017 11:47:46, File's count in this directory: 0
+End session.
+
+
+Session's time: 24.11.2017 11:47:46, 16.10.2017 22:06:40
+End session.
+
+
+Session's time: 24.11.2017 11:47:46, Drive's free space: 112177160192
+End session.
+
+
+Session's time: 24.11.2017 11:47:46, Drive's type: Fixed
+End session.
+
+
+Session's time: 24.11.2017 11:47:46, Drive's title: C:\, Drive's space: 253008781312, Drive's free space: 112177160192, Drive's label: Drive's title: E:\, Drive's space: 2142593024, Drive's free space: 2142568448, Drive's label: 
+End session.
+
+
+Session's time: 24.11.2017 11:47:46, C:\PWL\study\OOP\lab13
+End session.
+
+
+Session's time: 24.11.2017 11:47:46, File's name: pvp_log.txt, File's extension: .txt, File's length: 4872
+End session.
+
+
+Session's time: 24.11.2017 11:47:46, File's creation date: 18.11.2017 21:50:29
+End session.
+
+
+Session's time: 24.11.2017 11:50:24, Count of parent's directories: 2
+End session.
+
+
+Session's time: 24.11.2017 11:50:24, Sub directory's count: 9
+End session.
+
+
+Session's time: 24.11.2017 11:50:24, File's count in this directory: 1
+End session.
+
+
+Session's time: 24.11.2017 11:50:24, 16.10.2017 22:06:40
+End session.
+
+
+Session's time: 24.11.2017 11:50:24, Drive's free space: 112177197056
+End session.
+
+
+Session's time: 24.11.2017 11:50:24, Drive's type: Fixed
+End session.
+
+
+Session's time: 24.11.2017 11:50:24, Drive's title: C:\, Drive's space: 253008781312, Drive's free space: 112177197056, Drive's label: Drive's title: E:\, Drive's space: 2142593024, Drive's free space: 2142568448, Drive's label: 
+End session.
+
+
+Session's time: 24.11.2017 11:50:24, C:\PWL\study\OOP\lab13
+End session.
+
+
+Session's time: 24.11.2017 11:50:24, File's name: pvp_log.txt, File's extension: .txt, File's length: 5895
+End session.
+
+
+Session's time: 24.11.2017 11:50:24, File's creation date: 18.11.2017 21:50:29
+End session.
+
+

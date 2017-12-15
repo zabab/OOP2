@@ -1,0 +1,1140 @@
+ID: 0
+Name: Idle
+Priority: 0
+Start time: 08.12.2017 11:44:21
+Processor time: 00:00:00
+ID: 4
+Name: System
+Priority: 8
+Start time: 08.12.2017 11:44:21
+Processor time: 00:00:00
+ID: 404
+Name: smss
+Priority: 11
+Start time: 08.12.2017 11:44:21
+Processor time: 00:00:00
+ID: 560
+Name: csrss
+Priority: 13
+Start time: 08.12.2017 11:44:21
+Processor time: 00:00:00
+ID: 668
+Name: wininit
+Priority: 13
+Start time: 08.12.2017 11:44:21
+Processor time: 00:00:00
+ID: 676
+Name: csrss
+Priority: 13
+Start time: 08.12.2017 11:44:21
+Processor time: 00:00:00
+ID: 744
+Name: services
+Priority: 9
+Start time: 08.12.2017 11:44:21
+Processor time: 00:00:00
+ID: 752
+Name: lsass
+Priority: 9
+Start time: 08.12.2017 11:44:21
+Processor time: 00:00:00
+ID: 860
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:21
+Processor time: 00:00:00
+ID: 884
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:21
+Processor time: 00:00:00
+ID: 904
+Name: fontdrvhost
+Priority: 8
+Start time: 08.12.2017 11:44:21
+Processor time: 00:00:00
+ID: 976
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:21
+Processor time: 00:00:00
+ID: 72
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:21
+Processor time: 00:00:00
+ID: 456
+Name: winlogon
+Priority: 13
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 876
+Name: fontdrvhost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 1064
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 1096
+Name: dwm
+Priority: 13
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 1140
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 1180
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 1188
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 1344
+Name: WUDFHost
+Priority: 13
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 1488
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 1508
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 1632
+Name: NVDisplay.Container
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 1684
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 1764
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 1772
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 1796
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 1804
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 1872
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 1884
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 1964
+Name: NVDisplay.Container
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 2016
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 2044
+Name: igfxCUIService
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 1928
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 2052
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 2212
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 2260
+Name: WTabletServicePro
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 2368
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 2376
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 2416
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 2424
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 2468
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 2648
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 2776
+Name: AsLdrSrv
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 2784
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 2796
+Name: AvastSvc
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 2808
+Name: dasHost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 2844
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 2904
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 2116
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 3220
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 3260
+Name: spoolsv
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 3336
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 3492
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 3500
+Name: esif_uf
+Priority: 13
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 3508
+Name: AdminService
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 3516
+Name: IntelCpHDCPSvc
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 3528
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 3536
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 3596
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 3612
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 3644
+Name: hasplms
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 3668
+Name: IpOverUsbSvc
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 3700
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 3708
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 3716
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 3728
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 3796
+Name: SecurityHealthService
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 3820
+Name: Lavasoft.WCAssistant.WinService
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 3864
+Name: sqlwriter
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 3876
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 4008
+Name: TeamViewer_Service
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 3416
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 4116
+Name: Memory Compression
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 4128
+Name: IntelCpHeciSvc
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 4156
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 4656
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 3940
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 5468
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 5856
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 5904
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 6604
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 6864
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 7120
+Name: HControl
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 7160
+Name: Wacom_TabletUser
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 6196
+Name: esif_assist_64
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 6212
+Name: sihost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 5988
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 5732
+Name: PresentationFontCache
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 5728
+Name: WacomHost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 5684
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 6820
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 6568
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 7332
+Name: explorer
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 7472
+Name: igfxEM
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 7540
+Name: Wacom_Tablet
+Priority: 10
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 7568
+Name: DMedia
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 7604
+Name: ATKOSD2
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 7628
+Name: Wacom_TouchUser
+Priority: 10
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 7920
+Name: ShellExperienceHost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 7940
+Name: taskhostw
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 7284
+Name: SearchIndexer
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 8360
+Name: RuntimeBroker
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 8800
+Name: SkypeHost
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 9040
+Name: chrome
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 3480
+Name: chrome
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 9196
+Name: chrome
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 8248
+Name: chrome
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 7020
+Name: chrome
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 7756
+Name: chrome
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 8188
+Name: chrome
+Priority: 8
+Start time: 08.12.2017 11:44:22
+Processor time: 00:00:00
+ID: 3028
+Name: chrome
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 9552
+Name: SettingSyncHost
+Priority: 6
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 9640
+Name: MSASCuiL
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 10288
+Name: AvastUI
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 10312
+Name: OneDrive
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 10444
+Name: Discord
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 10824
+Name: Discord
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 11052
+Name: WebCompanion
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 924
+Name: Steam
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 1152
+Name: DTAgent
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 10556
+Name: DiscSoftBusServiceLite
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 5556
+Name: ShareX
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 7404
+Name: Discord
+Priority: 4
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 10736
+Name: steamwebhelper
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 10512
+Name: SteamService
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 10752
+Name: steamwebhelper
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 11944
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 2032
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 11600
+Name: Code
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 7300
+Name: Code
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 11384
+Name: Code
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 11880
+Name: Code
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 1500
+Name: Code
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 1892
+Name: CodeHelper
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 1996
+Name: conhost
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 2228
+Name: Code
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 2280
+Name: Code
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 4184
+Name: Code
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 11612
+Name: Code
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 7188
+Name: Code
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 6888
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 1784
+Name: dllhost
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 8240
+Name: ApplicationFrameHost
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 1904
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 4652
+Name: SystemSettingsBroker
+Priority: 10
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 9712
+Name: MsMpEng
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 3840
+Name: NisSrv
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 9156
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 5740
+Name: WinStore.App
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 5044
+Name: Microsoft.Photos
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 2296
+Name: SystemSettings
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 6948
+Name: chrome
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 8232
+Name: chrome
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 8276
+Name: chrome
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 10688
+Name: chrome
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 10296
+Name: chrome
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 8104
+Name: chrome
+Priority: 4
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 12304
+Name: chrome
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 12328
+Name: chrome
+Priority: 4
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 4480
+Name: Materials
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 2576
+Name: Materials
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 12316
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 3368
+Name: Materials
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 12792
+Name: chrome
+Priority: 4
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 8704
+Name: chrome
+Priority: 4
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 1448
+Name: chrome
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 4740
+Name: SearchUI
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 5088
+Name: steamwebhelper
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 1840
+Name: steamwebhelper
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 10032
+Name: chrome
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 3100
+Name: chrome
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 5636
+Name: chrome
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 5104
+Name: chrome
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 4444
+Name: chrome
+Priority: 4
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 6420
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 15108
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 2680
+Name: WUDFHost
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 9540
+Name: chrome
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 9600
+Name: Code
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 15100
+Name: CodeHelper
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 13744
+Name: conhost
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 9720
+Name: Code
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 14320
+Name: Code
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 13180
+Name: Code
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 9684
+Name: winpty-agent
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 4232
+Name: conhost
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 13508
+Name: powershell
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 9776
+Name: cmd
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 9244
+Name: conhost
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 10964
+Name: OmniSharp
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 11660
+Name: devenv
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 14880
+Name: PerfWatson2
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 14432
+Name: ServiceHub.Host.Node.x86
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 7748
+Name: conhost
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 6360
+Name: ServiceHub.IdentityHost
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 9792
+Name: ServiceHub.VSDetouredHost
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 11976
+Name: ServiceHub.SettingsHost
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 14940
+Name: ServiceHub.Host.CLR.x86
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 8060
+Name: ServiceHub.RoslynCodeAnalysisService32
+Priority: 6
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 11964
+Name: ServiceHub.DataWarehouseHost
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 13732
+Name: ScriptedSandbox64
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 12884
+Name: chrome
+Priority: 4
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 11500
+Name: chrome
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 15928
+Name: SkypeApp
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 11504
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 13416
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 14712
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 6216
+Name: chrome
+Priority: 4
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 16732
+Name: svchost
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 16020
+Name: smartscreen
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 12680
+Name: Code
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 6008
+Name: CodeHelper
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 16640
+Name: conhost
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 13648
+Name: Code
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 16700
+Name: Code
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 14436
+Name: Code
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 16776
+Name: winpty-agent
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 3808
+Name: conhost
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 5324
+Name: powershell
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 6652
+Name: cmd
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 14884
+Name: conhost
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 8712
+Name: OmniSharp
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 15680
+Name: chrome
+Priority: 4
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 2316
+Name: chrome
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 16580
+Name: dotnet
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
+ID: 15384
+Name: dotnet
+Priority: 8
+Start time: 08.12.2017 11:44:23
+Processor time: 00:00:00
